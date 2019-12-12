@@ -1,2 +1,2 @@
 # CU-bootcamp-lesson2
-second day of Columbia university 
+Second Day of Columbia university 
